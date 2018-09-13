@@ -1,0 +1,31 @@
+#unique {
+  color: slategray;
+  background-color: ivory;
+  border: slategray 12px double;
+  border-radius: 20%;
+  margin: 40px;
+  padding: 40px 60px;
+  font-size: 30px;
+  font-family: Centaur, serif;
+  background-image: linear-gradient(to bottom, ivory, wheat);
+  text-align: center;
+}
+
+.list-style {
+    font-family: Gamja Flower, cursive;
+    font-size: 50px;
+    color: salmon;
+    background-color: #360;
+}
+
+#image-style {
+  width: 400px;
+  height: 300px;
+  border: dashed 2px blue;
+  border-radius: 50%;
+}
+
+.div-style {
+  background-color: #881223;
+  color: antiquewhite;
+}
